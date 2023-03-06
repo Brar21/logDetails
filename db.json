@@ -1,8 +1,38 @@
 {
   "user": [
+    {
+"email": "varinder@gmail.com",
+"password": "123",
+"confirmpassword": "123",
+"name": "Varinder brar",
+"id": 1
+},
+{
+"email": "manpreet@gmail.com",
+"password": "123",
+"confirmpassword": "123",
+"name": "Manpreet brar",
+"id": 2
+}
   ],
   "login": [
   ],
-  "admin":[],
+  "admin":[
+  {
+"email": "varinder@gmail.com",
+"password": "123",
+"confirmpassword": "123",
+"name": "Varinder brar",
+    "username":"Brar",
+"id": 1
+},
+{
+"email": "manpreet@gmail.com",
+"password": "123",
+"confirmpassword": "123",
+"name": "Manpreet brar",
+  "username":"Mani",
+"id": 2
+}],
   "adminlogin":[]
 }
